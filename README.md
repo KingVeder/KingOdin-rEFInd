@@ -141,6 +141,9 @@ If you improve it, consider sharing it back ❤️
 ## 🙏 Credits
 
 * rEFInd by **Roderick W. Smith**
+- **BlackCatMuzzle rEFInd Theme**  
+  Created by [Scorpi-ON](https://github.com/Scorpi-ON)  
+  Repository: https://github.com/Scorpi-ON/BlackCatMuzzle-rEFInd  
 * Icons adapted from community rEFInd icon sets
 * Theme concept and customization by **KingVeder**
 
