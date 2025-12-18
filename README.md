@@ -29,6 +29,10 @@ bg/
 └── background_empty.png    # black fallback
 ```
 
+<img width="1920" height="1080" alt="KingOdin_preview_1920x1080" src="https://github.com/user-attachments/assets/b7f4b095-8ce8-4747-9b14-44e7a99e5864" />
+<img width="3440" height="1440" alt="KingOdin_preview_3440x1440" src="https://github.com/user-attachments/assets/1e7653ef-4d83-4195-b649-2630a5a7ea4b" />
+
+
 ---
 
 ## 📁 Folder Structure
